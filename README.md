@@ -1,6 +1,6 @@
 ![enter image description here](https://cdn-icons-png.flaticon.com/512/5986/5986190.png)
 
-I am a Game client developer.  I am a South Korean.  I have experience in making Unity packages and releasing over 10 kinds of puzzles and arcade games.I like running as a hobby. :running:
+I am a Korean game client developer with a passion for creating immersive gaming experiences. I have a proven track record of developing and releasing over 10 puzzle and arcade games using Unity. My expertise includes game design, programming, and asset creation. I am also proficient in creating reusable Unity packages to enhance development efficiency. Outside of work, I enjoy running to stay fit and clear my mind. :running:
 
 
 

@@ -1,8 +1,6 @@
 <img src="https://freesvg.org/img/hello_world_label.png" width="300" height="300">
 
-
-I am a Game client developer.  I am a South Korean.  I have experience in making Unity packages and releasing over 20 kinds of puzzles and arcade games.I like running as a hobby.:running:
-I have a cat called "Lungworm":cat:
+I am a Korean game client developer with a passion for creating immersive gaming experiences. I have a proven track record of developing and releasing over 10 puzzle and arcade games using Unity. My expertise includes game  programming, and asset creation. I am also proficient in creating reusable Unity packages to enhance development efficiency. Outside of work, I enjoy running to stay fit and clear my mind.
 
 
 

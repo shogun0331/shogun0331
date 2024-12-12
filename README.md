@@ -1,7 +1,7 @@
 ![enter image description here](https://cdn-icons-png.flaticon.com/512/5986/5986190.png)
 
-I am a Game client developer.  I am a South Korean.  I have experience in making Unity packages and releasing over 20 kinds of puzzles and arcade games.I like running as a hobby.:running:
-I have a cat called "Lungworm":cat:
+I am a Game client developer.  I am a South Korean.  I have experience in making Unity packages and releasing over 20 kinds of puzzles and arcade games.I like running as a hobby. :running:
+
 
 
 

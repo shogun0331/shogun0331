@@ -29,6 +29,11 @@ I am a Korean game client developer with a passion for creating immersive gaming
 
   training of new employees
 
+  Microsoft Playfab Interview
+
+  https://videos.microsoft.com/customer-stories/watch/oZSXWjQCeKvRVLM7dr2ovN?
+
+
 
 
 

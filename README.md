@@ -2,6 +2,37 @@
 
 I am a Korean game client developer with a passion for creating immersive gaming experiences. I have a proven track record of developing and releasing over 10 puzzle and arcade games using Unity. My expertise includes game  programming, and asset creation. I am also proficient in creating reusable Unity packages to enhance development efficiency. Outside of work, I enjoy running to stay fit and clear my mind.
 
+## History
+- SUD inc
+  
+  2016.04.01 ~ 2017.04 1year
+  
+  game development
+  
+  
+- TengleGames
+
+  2017.04 ~ 2018.12 1year 8 months
+
+  CEO & game development
+  
+
+- Mobirix 
+
+  2020.01 ~ 2024.10  4year 10 months
+  
+  Managing Live Updates
+
+  Create Unity Mobirix Package
+
+  TFT R&D
+
+  training of new employees
+
+
+
+
+
 
 
 # Tech Stacks

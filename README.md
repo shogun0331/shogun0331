@@ -19,7 +19,7 @@ I am a Korean game client developer with a passion for creating immersive gaming
 
 - Mobirix 
 
-  2020.01 ~ 2024.10  4year 10 months
+  2020.01 ~ 2024.10  5year 10 months
   
   Managing Live Updates
 

@@ -12,7 +12,7 @@ I am a Korean game client developer with a passion for creating immersive gaming
   
 - TengleGames
 
-  2017.04 ~ 2018.12 1year 8 months
+  2017.04 ~ 2019.12 1year 8 months
 
   CEO & game development
   
